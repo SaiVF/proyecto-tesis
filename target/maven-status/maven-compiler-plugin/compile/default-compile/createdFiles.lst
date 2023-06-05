@@ -32,6 +32,7 @@ svf\com\controller\OrderController.class
 svf\com\service\SeedServicesImpl.class
 svf\com\exception\PlantException.class
 svf\com\model\OrderDTO.class
+svf\com\ApplicationTest.class
 svf\com\model\CurrentUserSession.class
 svf\com\repository\SeedDao.class
 svf\com\repository\CurrentUserSessionDao.class
@@ -41,7 +42,6 @@ svf\com\exception\SeedException.class
 svf\com\model\Orders.class
 svf\com\controller\SignUpController.class
 svf\com\repository\LoginDataDao.class
-svf\com\DelicateQuite4701Application.class
 svf\com\repository\SignUpDao.class
 svf\com\service\LogInServiceImpl.class
 svf\com\service\PlanterServiceImpl.class
