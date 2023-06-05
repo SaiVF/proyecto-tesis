@@ -1,6 +1,6 @@
 # Default ignored files
-/target/
 target/
 *.log
-*.Ist
 *.jar
+*.lst
+*.original
